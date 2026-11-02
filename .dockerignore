@@ -1,0 +1,14 @@
+.git
+.idea
+__pycache__
+*.py[cod]
+*.ply
+*.png
+*.pt
+*.pth
+*.crdownload
+checkpoints/
+my_test/
+web_jobs/
+venv/
+.venv/

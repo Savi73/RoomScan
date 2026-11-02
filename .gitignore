@@ -1,0 +1,13 @@
+.idea/
+*.pt
+*.pth
+*.png
+*.ply
+web_jobs/
+__pycache__/
+*.py[cod]
+my_test/
+*.crdownload
+9sacns.py
+register.py
+prompt.txt
